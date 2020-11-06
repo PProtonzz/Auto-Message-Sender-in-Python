@@ -24,6 +24,8 @@ Point the cursor at text box or comment box and the robotic system will automati
 
 # Live View
 
+Blog Post : https://pranavfulkari.com/snippets/auto-messages-sender-in-python-pyautogui/
+
 [![Auto Messages Sender in Python By PRANAV FULKARI](http://img.youtube.com/vi/j1WyMF8hJew/0.jpg)](http://www.youtube.com/watch?v=j1WyMF8hJew "Auto Messages Sender in Python By PRANAV FULKARI")
 
 # Follow for more
