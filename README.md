@@ -25,7 +25,7 @@ Point the cursor at text box or comment box and the robotic system will automati
 
 # Live View
 
-![]()
+
 
 # Follow for more
 
