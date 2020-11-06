@@ -13,6 +13,7 @@ Things must need:
 ```
 (pip install pyautogui)
 ```
+If it says permission denied, try:
 ```
 python3 -m pip install --user pyautogui
 ```
