@@ -24,7 +24,7 @@ Point the cursor at text box or comment box and the robotic system will automati
 
 # Live View
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/j1WyMF8hJew/0.jpg)](http://www.youtube.com/watch?v=j1WyMF8hJew "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/j1WyMF8hJew/0.jpg)](http://www.youtube.com/watch?v=j1WyMF8hJew "Auto Messages Sender in Python By PRANAV FULKARI")
 
 # Follow for more
 
